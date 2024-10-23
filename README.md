@@ -1,7 +1,3 @@
-Here’s how you can update your GitHub profile's `README.md` with the new content based on the current state of your resume. Simply replace the content of your [GitHub README](https://github.com/John095/John095) with the following:
-
----
-
 # Hi, I'm John Ndirangu 👋
 
 ## 🚀 DevOps / AWS Cloud Engineer
@@ -76,11 +72,3 @@ I am a **DevOps Consultant and AWS Cloud Engineer** with expertise in cloud comp
 Feel free to explore my repositories and reach out if you'd like to collaborate or have a project in mind!
 
 ---
-
-### 📊 **GitHub Stats**
-
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=John095&show_icons=true&theme=radical)
-
----
-
-This refreshed README will showcase your expertise and make your profile attractive to potential employers and collaborators! Let me know if you'd like any further adjustments!
